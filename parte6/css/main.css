@@ -1,0 +1,39 @@
+/* Pon tu código css aqui */
+.container {
+
+}
+
+.rojo {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: red;
+    left: 0;
+    top: 0;
+    
+}
+.azul {
+    position: absolute;    
+    width: 200px;
+    height: 200px;    
+    background: blue;
+    left: 200px;
+    top: 196px;
+}
+.verde {
+    position: absolute;    
+    width: 200px;
+    height: 200px;    
+    background: green;
+    left: 0;
+    bottom: 200px;
+}
+.amarrillo {
+    position: absolute;    
+    width: 200px;
+    height: 200px;    
+    background: yellow;
+    left: 0;
+    bottom: 0;
+}
+
